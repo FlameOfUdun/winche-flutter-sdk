@@ -1,0 +1,24 @@
+name: winche_flutter
+description: Winche for Flutter apps — the options for each platform (from `winche configure`) and where the SDKs keep their data.
+version: 0.1.0
+repository: https://github.com/FlameOfUdun/winche-flutter-sdk
+issue_tracker: https://github.com/FlameOfUdun/winche-flutter-sdk/issues
+
+topics:
+  - backend
+  - flutter
+
+environment:
+  sdk: ^3.10.0
+  flutter: ">=3.38.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  path_provider: ^2.1.5
+  winche_core: ^1.0.0
+
+dev_dependencies:
+  flutter_lints: ^6.0.0
+  flutter_test:
+    sdk: flutter
