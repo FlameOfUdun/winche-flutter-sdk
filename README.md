@@ -14,9 +14,6 @@ Then the Winche packages you use, for example:
 flutter pub add winche_auth winche_database winche_storage winche_functions
 ```
 
-The current versions: `winche_flutter` 0.1, `winche_core` 1.0, `winche_auth` 0.1, `winche_database` 8.0, `winche_storage`
-6.0, `winche_functions` 0.1.
-
 ## 2. Write `lib/winche_options.dart`
 
 In your app's folder, with the [Winche CLI](https://github.com/FlameOfUdun/winche-cli):
