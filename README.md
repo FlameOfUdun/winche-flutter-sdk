@@ -8,7 +8,14 @@ Start [Winche](https://github.com/FlameOfUdun) in a Flutter app: one call, with 
 flutter pub add winche_flutter
 ```
 
-Then the Winche packages you use: `winche_database`, `winche_storage`, `winche_auth`, `winche_functions`.
+Then the Winche packages you use, for example:
+
+```sh
+flutter pub add winche_auth winche_database winche_storage winche_functions
+```
+
+The current versions: `winche_flutter` 0.1, `winche_core` 1.0, `winche_auth` 0.1, `winche_database` 8.0, `winche_storage`
+6.0, `winche_functions` 0.1.
 
 ## 2. Write `lib/winche_options.dart`
 
